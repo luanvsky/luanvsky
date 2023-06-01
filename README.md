@@ -1,18 +1,17 @@
 ### Hi there 👋
 
-<!--
-**luanvsky/luanvsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Luanvsky*** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on IFS-CMT
+- 🌱 I’m currently learning BI Analytics
+- 👯 I’m looking to collaborate on metedology of programming 
+- 🤔 I’m looking for help with data science
+- 💬 Ask me about agile methodology in the public sector
+- 📫 How to reach me: victor@victordemelo.onmicrosoft.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: street rolling 
 -->
 
 ## Ferramentas e Tecnologias
