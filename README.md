@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on IFS-CMT
+- 🔭 I’m currently working on *VIDILUVSKY*
 - 🌱 I’m currently learning BI Analytics
 - 👯 I’m looking to collaborate on metedology of programming 
 - 🤔 I’m looking for help with data science
 - 💬 Ask me about agile methodology in the public sector
-- 📫 How to reach me: victor@victordemelo.onmicrosoft.com
+- 📫 How to reach me: victortqp@hotmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: street rolling 
 -->
