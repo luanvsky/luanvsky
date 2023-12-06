@@ -1,57 +1,23 @@
-### Hi there 👋
+# Olá, mundo! 👋🌍
 
-***Luanvsky*** is a ✨ _special_ ✨ repository because its my digital portfolio, a space where I share my personal projects, ideas, and exercises that I’ve solved during the courses I’ve taken. Each repository here is a reflection of my commitment to continuous learning and innovation. If you’re interested in learning more about my work, feel free to explore.
+Bem-vindo ao meu GitHub! Este é o meu portfólio digital, um espaço onde compartilho meus projetos pessoais, ideias e exercícios que resolvi durante os cursos que realizei.
 
-Thank you for visiting! 🚀"
+Cada repositório aqui é um reflexo do meu compromisso com a aprendizagem contínua e a inovação. Se você está interessado em conhecer mais sobre o meu trabalho, sinta-se à vontade para explorar.
 
-Here are some interesting things about me:
+Claro! Aqui está uma sugestão de como você pode apresentar suas características e curiosidades:
 
-- 🔭 I’m currently working on *VIDILUVSKY*
-- 🌱 I’m currently learning BI Analytics
-- 👯 I’m looking to collaborate on metedology of programming 
-- 🤔 I’m looking for help with data science
-- 💬 Ask me about agile methodology in the public sector
-- 📫 How to reach me: victortqp@hotmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: street rolling 
--->
+## Sobre mim 🙋‍♂️
 
-## Ferramentas e Tecnologias
+Olá! Aqui estão algumas coisas interessantes sobre mim:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+1. **Apaixonado por tecnologia**: Sempre fui fascinado por como a tecnologia pode transformar o mundo. Isso me levou a explorar várias áreas, desde programação até análise de dados.
 
-## Estou aprendendo
+2. **Aprendizagem contínua**: Acredito que nunca devemos parar de aprender. Estou sempre procurando novos cursos e recursos para expandir meu conhecimento.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60"/>
+3. **Resolução de problemas**: Adoro resolver problemas complexos e encontrar soluções inovadoras. Isso é evidente nos vários projetos e exercícios que você encontrará neste repositório.
 
-## Contatos:
+4. **Curiosidades**: Nos meus tempos livres, gosto de ler, viajar e explorar novas culturas. Também sou um grande fã de música e toco guitarra nas horas vagas.
 
-<div>
-<a href="https://www.youtube.com/victrovsky" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/vcsmelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/victrovsky" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@victorcupinxa"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/victor-melo-5b099942" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+Espero que isso te dê uma ideia melhor de quem eu sou. Obrigado por visitar meu GitHub! 🚀
 
-<div>
-<a href="https://github.com/luanvsky">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanvsky&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanvsky&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
- 
-
-![Snake animation](https://github.com/luanvsky/luanvsky/blob/output/github-contribution-grid-snake.svg)
-
-
-          
-          
-          
-
-
-
-
-          
-           
-          
-          
+Obrigado pela visita! 🚀
