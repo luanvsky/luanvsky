@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-***Luanvsky*** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Luanvsky*** is a ✨ _special_ ✨ repository because its my digital portfolio, a space where I share my personal projects, ideas, and exercises that I’ve solved during the courses I’ve taken. Each repository here is a reflection of my commitment to continuous learning and innovation. If you’re interested in learning more about my work, feel free to explore.
 
-Here are some ideas to get you started:
+Thank you for visiting! 🚀"
+
+Here are some interesting things about me:
 
 - 🔭 I’m currently working on *VIDILUVSKY*
 - 🌱 I’m currently learning BI Analytics
