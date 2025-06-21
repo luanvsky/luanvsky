@@ -1,19 +1,20 @@
-### Hi there 👋
+Olá, pessoal! 👋
+O repositório Luanvsky é um lugar ✨ especial ✨ para mim. Ele é o meu portfólio digital, um cantinho onde compartilho meus projetos pessoais, ideias e os exercícios que resolvi durante minha jornada de aprendizado. 👨‍💻
 
-***Luanvsky*** is a ✨ _special_ ✨ repository because its my digital portfolio, a space where I share my personal projects, ideas, and exercises that I’ve solved during the courses I’ve taken. Each repository here is a reflection of my commitment to continuous learning and innovation. If you’re interested in learning more about my work, feel free to explore.
+Cada projeto aqui reflete meu compromisso com a evolução contínua e a busca por inovação. Se você se interessou pelo meu trabalho, sinta-se à vontade para explorar tudo por aqui. Ficarei feliz em receber seu feedback!
 
-Thank you for visiting! 🚀"
+Obrigado pela visita! 🚀
 
-Here are some interesting things about me:
+Aqui estão algumas curiosidades sobre mim:
 
-- 🔭 I’m currently working on *VIDILUVSKY*
-- 🌱 I’m currently learning BI Analytics
-- 👯 I’m looking to collaborate on metedology of programming 
-- 🤔 I’m looking for help with data science
-- 💬 Ask me about agile methodology in the public sector
-- 📫 How to reach me: victortqp@hotmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: street rolling 
+🔭 Atualmente, estou focado no desenvolvimento do projeto Aspar Go.
+🌱 Estou mergulhando nos estudos de BI Analytics & SQL para turbinar minhas habilidades com dados.
+👯 Busco colaborar em projetos que envolvam metodologias de programação. Vamos criar algo incrível juntos!
+🤔 Estou procurando ajuda e mentoria na área de Ciência de Dados (Data Science). Se você tem experiência, vamos conversar!
+💬 Pode me perguntar sobre a aplicação de metodologias ágeis no setor público. Adoro trocar ideias sobre o tema!
+📫 Para me encontrar, basta enviar um e-mail para: victortqp@hotmail.com e victorcuinxa@gmail.com 📧
+😄 Meus pronomes são: ele/dele.
+⚡ Curiosidade aleatória: Sou apaixonado por patins de rua (street rolling)! 🛹
 -->
 
 ## Ferramentas e Tecnologias
