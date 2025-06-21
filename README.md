@@ -1,7 +1,11 @@
 Olá, pessoal! 👋
+
 O repositório Luanvsky é um lugar ✨ especial ✨ para mim. Ele é o meu portfólio digital, um cantinho onde compartilho meus projetos pessoais, ideias e os exercícios que resolvi durante minha jornada de aprendizado. 👨‍💻
+
 Cada projeto aqui reflete meu compromisso com a evolução contínua e a busca por inovação. Se você se interessou pelo meu trabalho, sinta-se à vontade para explorar tudo por aqui. Ficarei feliz em receber seu feedback!
+
 Obrigado pela visita! 🚀
+
 Aqui estão algumas curiosidades sobre mim:
 
 🔭 Atualmente, estou focado no desenvolvimento do projeto Aspar Go.
