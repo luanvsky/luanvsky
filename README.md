@@ -1,20 +1,25 @@
 Olá, pessoal! 👋
 O repositório Luanvsky é um lugar ✨ especial ✨ para mim. Ele é o meu portfólio digital, um cantinho onde compartilho meus projetos pessoais, ideias e os exercícios que resolvi durante minha jornada de aprendizado. 👨‍💻
-
 Cada projeto aqui reflete meu compromisso com a evolução contínua e a busca por inovação. Se você se interessou pelo meu trabalho, sinta-se à vontade para explorar tudo por aqui. Ficarei feliz em receber seu feedback!
-
 Obrigado pela visita! 🚀
-
 Aqui estão algumas curiosidades sobre mim:
 
 🔭 Atualmente, estou focado no desenvolvimento do projeto Aspar Go.
+
 🌱 Estou mergulhando nos estudos de BI Analytics & SQL para turbinar minhas habilidades com dados.
+
 👯 Busco colaborar em projetos que envolvam metodologias de programação. Vamos criar algo incrível juntos!
+
 🤔 Estou procurando ajuda e mentoria na área de Ciência de Dados (Data Science). Se você tem experiência, vamos conversar!
+
 💬 Pode me perguntar sobre a aplicação de metodologias ágeis no setor público. Adoro trocar ideias sobre o tema!
+
 📫 Para me encontrar, basta enviar um e-mail para: victortqp@hotmail.com e victorcuinxa@gmail.com 📧
+
 😄 Meus pronomes são: ele/dele.
+
 ⚡ Curiosidade aleatória: Sou apaixonado por patins de rua (street rolling)! 🛹
+
 -->
 
 ## Ferramentas e Tecnologias
